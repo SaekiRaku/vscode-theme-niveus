@@ -1,0 +1,79 @@
+{
+  "name": "vscode-theme-niveus",
+  "displayName": "Niveus",
+  "description": "",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/SaekiRaku/vscode-theme-niveus"
+  },
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Niveus: Klein(Blue) Light",
+        "uiTheme": "vs",
+        "path": "./themes/niveus-blue-light-color-theme.json"
+      },
+      {
+        "label": "Niveus: Klein(Blue) Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/niveus-blue-dark-color-theme.json"
+      },
+      {
+        "label": "Niveus: Violet(Purple) Light",
+        "uiTheme": "vs",
+        "path": "./themes/niveus-purple-light-color-theme.json"
+      },
+      {
+        "label": "Niveus: Violet(Purple) Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/niveus-purple-dark-color-theme.json"
+      },
+      {
+        "label": "Niveus: Wine(Magenta) Light",
+        "uiTheme": "vs",
+        "path": "./themes/niveus-magenta-light-color-theme.json"
+      },
+      {
+        "label": "Niveus: Wine(Magenta) Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/niveus-magenta-dark-color-theme.json"
+      },
+      {
+        "label": "Niveus: Red Light",
+        "uiTheme": "vs",
+        "path": "./themes/niveus-red-light-color-theme.json"
+      },
+      {
+        "label": "Niveus: Red Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/niveus-red-dark-color-theme.json"
+      },
+      {
+        "label": "Niveus: Golden(Yellow) Light",
+        "uiTheme": "vs",
+        "path": "./themes/niveus-yellow-light-color-theme.json"
+      },
+      {
+        "label": "Niveus: Golden(Yellow) Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/niveus-yellow-dark-color-theme.json"
+      },
+      {
+        "label": "Niveus: Nature(Green) Light",
+        "uiTheme": "vs",
+        "path": "./themes/niveus-green-light-color-theme.json"
+      },
+      {
+        "label": "Niveus: Nature(Green) Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/niveus-green-dark-color-theme.json"
+      }
+    ]
+  }
+}
