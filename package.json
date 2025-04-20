@@ -1,6 +1,10 @@
 {
   "name": "vscode-theme-niveus",
   "displayName": "Niveus",
+  "author": {
+    "name": "SaekiRaku",
+    "url": "https://github.com/SaekiRaku"
+  },
   "description": "",
   "version": "0.0.1",
   "repository": {
